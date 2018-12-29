@@ -1,0 +1,24 @@
+{
+  "name": "wf-helper",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "1.4.1",
+    "@material-ui/icons": "2.0.0",
+    "axios": "^0.18.0",
+    "moment": "2.22.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-helmet": "5.2.0",
+    "react-moment-countdown": "0.3.0",
+    "react-moment-proptypes": "1.6.0",
+    "react-scripts": "1.1.4",
+    "react-text-marquee": "1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

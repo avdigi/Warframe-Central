@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+  min-height: 100vh; /* will cover the 100% of viewport */
+  overflow: hidden;
+  display: block;
+  position: relative;
+  padding-bottom: 0;
+}
+
+#body {
+  padding-bottom: 60px; /* Height of the footer */
+}
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+body {
+  background-image: url(//n9e5v4d8.ssl.hwcdn.net/images/promo/fortuna/landing/fortuna.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* Menu Bar Section */
+.App-Logo {
+  height: 80px;
+  margin-left: -13px;
+  margin-top: -10px;
+}
+.App-Menu {
+  background: linear-gradient(180deg, #181f2f 0%, #25354f 100%);
+}
+.App-Footer {
+  background: linear-gradient(360deg, #181f2f 0%, #25354f 100%);
+}
+.App-Title {
+  margin-top: 5px !important;
+  margin-left: 5px !important;
+}
+
+/* News Section */
+.newsMarquee {
+  margin: 0;
+  color: white;
+  padding: 5px;
+  border-top: solid 1px white;
+  border-bottom: solid 1px white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.newsMarqueeBG {
+  filter: blur(5px);
+  position: absolute;
+}
+.newsText {
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.newsText:hover {
+  color: #519bad;
+  text-decoration: none;
+}
+
+/* PoE Clock Section */
+.poeClock {
+  background-color: #ff3cac;
+  background: linear-gradient(90deg, #181f2f 0%, #25354f 100%);
+  margin: 0.8em;
+  padding: 2px;
+}
+.poeClock > div {
+  background-color: whitesmoke;
+  border-radius: 3px;
+}
+.paneHead {
+  background-color: #21d4fd;
+  background: linear-gradient(90deg, #181f2f 0%, #25354f 100%);
+  color: #fffafa !important;
+}
+
+.repLogo {
+  margin-bottom: -7px;
+}
+
+.rewardPoolChip {
+  margin: 2px;
+}
+
+.rewardPoolChips {
+  text-align: right;
+}
+
+.nightClock {
+  color: blue;
+}
+
+.dayClock {
+  color: green;
+}
+
+.favIcon {
+  height: 40px;
+  width: 40px;
+  margin-bottom: -13px;
+}
