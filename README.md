@@ -3,3 +3,6 @@ This project was created purely for fun, the goal of this application is to func
 
 This application is client-side only developed with React, future plans include a complete server & client solution.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+<br/><br/>
+<a href="https://j3026r7135.codesandbox.io/">Live Demo</a>
