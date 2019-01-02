@@ -1,7 +1,17 @@
 {
-  "main.css": "static/css/main.ede0e26a.css",
-  "main.css.map": "static/css/main.ede0e26a.css.map",
-  "main.js": "static/js/main.621f6a34.js",
-  "main.js.map": "static/js/main.621f6a34.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.6fd5bc2a.css",
+  "main.css.map": "static/css/main.6fd5bc2a.css.map",
+  "main.js": "static/js/main.506b2cfa.js",
+  "main.js.map": "static/js/main.506b2cfa.js.map",
+  "static/media/Chassis.png": "static/media/Chassis.137c6f51.png",
+  "static/media/Kuva.png": "static/media/Kuva.1dabce9e.png",
+  "static/media/Systems.png": "static/media/Systems.2c470e04.png",
+  "static/media/bp.png": "static/media/bp.eab41c8d.png",
+  "static/media/furax.png": "static/media/furax.bfe924de.png",
+  "static/media/fusion.png": "static/media/fusion.63bd748e.png",
+  "static/media/lens.png": "static/media/lens.bea707bf.png",
+  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
+  "static/media/relic.png": "static/media/relic.788b5695.png",
+  "static/media/resource.png": "static/media/resource.526563e9.png",
+  "static/media/warframeLogo.png": "static/media/warframeLogo.8118f0d6.png"
 }
