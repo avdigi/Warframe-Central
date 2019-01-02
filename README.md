@@ -1,8 +1,16 @@
 ## Warframe Central - A React API Tracker for Warframe
-This project was created purely for fun, the goal of this application is to function as a single page application displaying latest stats, times, loot drops, and etc so a player could effectively track when to log in and play Warframe.
+This project was created purely for fun, the goal of this application is to function as a single page application displaying <br/>
+<a href="https://anthonydigi.com/warframe">Live Demo</a><br/>
 
-This application is client-side only developed with React, future plans include a complete server & client solution.
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+## Features
+<ul>
+  <li>Pulls in Latest API information from <a href="https://docs.warframestat.us/">WarframeStat.us</a></li>
+  <li>Dynamic imaging for loot drops, also future-proofed for any new additions/frames</li>
+  <li>Scrolling news ticker to emulate the ticker from the latest update, Fortuna</li>
+  <li>Progressive Web Application - loads the site onto any client device for blazingly fast load speeds.</li>
+  <li>Utilizes <a href="https://material-ui.com/">Material Design framework</a></li>
+</ul>
 
-<br/><br/>
-<a href="https://j3026r7135.codesandbox.io/">Live Demo</a>
+## About
+This application is client-side only developed with React, future plans include adding more trackers for new contnet (Fortuna), a complete server & client solution.<br/>
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).<br/>
