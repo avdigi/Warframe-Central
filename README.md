@@ -1,6 +1,6 @@
 ## Warframe Central - A React API Tracker for Warframe
 This project was created purely for fun, the goal of this application is to function as a single page application displaying <br/>
-<a href="https://anthonydigi.com/warframe">Live Demo</a><br/>
+<a href="https://j3026r7135.codesandbox.io/">Live Demo</a><br/>
 
 ## Features
 <ul>
