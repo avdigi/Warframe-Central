@@ -12,5 +12,5 @@ This project was created purely for fun, the goal of this application is to func
 </ul>
 
 ## About
-This application is client-side only developed with React, future plans include adding more trackers for new contnet (Fortuna), a complete server & client solution.<br/>
+This application is client-side only developed with React, future plans include adding more trackers for new content (Fortuna), a complete server & client solution.<br/>
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).<br/>
