@@ -1,5 +1,5 @@
 ## Warframe Central - A React API Tracker for Warframe
-This project was created purely for fun, the goal of this application is to function as a single page application displaying <br/>
+This project was created purely for fun, the goal of this application is to function as a single page application displaying latest statistics from an API service for a video game, Warframe <br/>
 <a href="https://warframe-central.herokuapp.com/">Live Demo</a><br/>
 
 ## Features
