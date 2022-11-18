@@ -13,7 +13,7 @@
     "react-helmet": "5.2.0",
     "react-moment-countdown": "0.3.0",
     "react-moment-proptypes": "1.6.0",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "react-text-marquee": "1.0.1"
   },
   "scripts": {
